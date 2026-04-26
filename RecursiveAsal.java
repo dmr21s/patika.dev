@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class RecursiveAsal {
 
-```
+
 static boolean isAsal(int n, int i) {
     if (n <= 2)
         return n == 2;
@@ -25,6 +25,6 @@ public static void main(String[] args) {
         System.out.println(n + " sayısı ASAL değildir !");
     }
 }
-```
+
 
 }
